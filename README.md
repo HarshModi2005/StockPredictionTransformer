@@ -1,5 +1,11 @@
 # StockPredictionTransformer
-Microsoft Stock Prediction using transformer model
+Stock Prediction using transformer model
+<br>
+Observation: The model performs better on commercial stocks than market indices
+<br>
+R^2 Score for Market Indices : 0.89-0.90
+<br>
+R^2 Score for Commercial Stocks: 0.96-0.97
 <br>
 Microsoft
 <br>
